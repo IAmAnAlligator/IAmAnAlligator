@@ -17,7 +17,7 @@
 
 ### 🚀 Мои проекты
 
-#### 🧩 [AP1_Jv_T03](https://github.com/IAmAnAlligator/AP1_Jv_T03)
+#### 🧩 [AP1_Jv_T05B](https://github.com/IAmAnAlligator/AP1_Jv_T05B)
 Веб-приложение на Java с использованием Spring Framework, реализующее игру «Крестики-нолики» (Tic-Tac-Toe) как REST-сервис.
 
 #### 🎮 [AP1_Jv_P01](https://github.com/IAmAnAlligator/AP1_Jv_P01)
